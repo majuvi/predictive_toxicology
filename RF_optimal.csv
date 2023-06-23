@@ -1,0 +1,11 @@
+setting,model,fold,n_estimators,max_features,max_samples
+setting1,RF,1,300.0,0.25,0.25
+setting1,RF,2,300.0,0.25,0.5
+setting1,RF,3,300.0,0.25,0.5
+setting1,RF,4,300.0,0.25,0.5
+setting1,RF,5,300.0,0.25,0.5
+setting2,RF,1,300.0,0.25,2.0
+setting2,RF,2,300.0,0.25,2.0
+setting2,RF,3,300.0,0.25,2.0
+setting2,RF,4,300.0,0.25,2.0
+setting2,RF,5,300.0,0.25,2.0

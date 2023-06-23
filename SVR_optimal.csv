@@ -1,0 +1,11 @@
+setting,model,fold,M,penalty,gamma
+setting1,SVR,1,0.0,10.0,0.08
+setting1,SVR,2,0.0,100.0,0.02
+setting1,SVR,3,0.0,100.0,0.02
+setting1,SVR,4,0.0,100.0,0.02
+setting1,SVR,5,0.0,100.0,0.02
+setting2,SVR,1,0.0,10.0,0.08
+setting2,SVR,2,0.0,10.0,0.08
+setting2,SVR,3,0.0,10.0,0.08
+setting2,SVR,4,0.0,10.0,0.08
+setting2,SVR,5,0.0,10.0,0.08

@@ -1,0 +1,12 @@
+setting,model,fold,nrounds,tree_depth,l2,gamma,subsample
+setting1,XGB,1,1124,9,10.0,0.1,1.0
+setting1,XGB,2,937,7,10.0,0.0,0.75
+setting1,XGB,3,567,9,1.0,0.0,0.75
+setting1,XGB,4,707,7,1.0,1.0,0.75
+setting1,XGB,5,636,7,10.0,0.0,0.75
+setting2,XGB,1,529,7,1.0,0.1,0.75
+setting2,XGB,2,184,9,0.0,1.0,1.0
+setting2,XGB,3,241,7,10.0,0.1,1.0
+setting2,XGB,4,142,9,0.0,0.0,0.5
+setting2,XGB,5,192,9,10.0,0.1,0.75
+setting2,,2,216,7,1.0,0.0,1.0

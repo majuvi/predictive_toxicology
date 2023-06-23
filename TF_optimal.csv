@@ -1,0 +1,16 @@
+setting,model,fold,M,penalty,nrounds
+setting1,TF3,1,128,1e-06,20
+setting1,TF3,2,512,1e-05,18
+setting1,TF3,3,128,1e-05,25
+setting1,TF3,4,128,1e-05,26
+setting1,TF3,5,128,1e-06,28
+setting1,TF5,1,64,0.0001,15
+setting1,TF5,2,256,1e-06,24
+setting1,TF5,3,512,1e-05,23
+setting1,TF5,4,128,1e-06,21
+setting1,TF5,5,256,1e-05,14
+setting2,TF5,1,512,1e-05,10
+setting2,TF5,2,512,0.0001,24
+setting2,TF5,3,128,1e-06,18
+setting2,TF5,4,512,1e-05,13
+setting2,TF5,5,512,1e-06,9
